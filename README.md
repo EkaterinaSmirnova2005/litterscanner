@@ -1,2 +1,2 @@
 # litterscanner
- This is the project where we can the QR code
+ This is the project where we can scan the QR code
