@@ -1,2 +1,2 @@
 # litterscanner
-will scan the litter and identify it
+ This is the project where we can the QR code
